@@ -1,0 +1,3 @@
+dao\VendingAuditDaoImplTest.class
+dao\VendingDaoImplTest.class
+service\VendingServiceLayerImplTest.class
